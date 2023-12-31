@@ -1,6 +1,6 @@
 # Gaia Explorer
 
-Make sure that you have successfully downloaded and unzipped the file, and organize it according to the following structure:
+Make sure that you have downloaded and unzipped the files as follows:
 
     (base) ➜  WD_BLACK tree dataset 
     dataset
@@ -22,4 +22,4 @@ Make sure that you have successfully downloaded and unzipped the file, and organ
 
     3 directories, 13 files
 
-In `config.py``, you can alter the default dataset path.
+In `config.py`, you can alter the default dataset path.
