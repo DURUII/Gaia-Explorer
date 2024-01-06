@@ -230,3 +230,4 @@ fabric.properties
 **/.vscode/*
 *.mp4
 dataset/taxi_february.txt
+output/*
