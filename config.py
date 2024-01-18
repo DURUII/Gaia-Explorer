@@ -14,18 +14,20 @@ process_folder = jiaotongsai_dataset
 active_threshold = 25
 
 number_of_workers = 1140
+number_of_tasks = 1140
 
-# output file paths
-worker2days_output = '/Volumes/WD_BLACK/dataset/output/worker2days.csv'
-date2workers_output = '/Volumes/WD_BLACK/dataset/output/date2workers.csv'
-worker2days_active_output = '/Volumes/WD_BLACK/dataset/output/worker2days_active.csv'
+# output file pathsoutput
+path_worker2days = '/Volumes/WD_BLACK/dataset/output/worker2days.csv'
+path_date2workers = '/Volumes/WD_BLACK/dataset/output/date2workers.csv'
 
-selected_worker_output = '/Volumes/WD_BLACK/dataset/output/selected_worker.csv'
-selected_task_output = '/Volumes/WD_BLACK/dataset/output/selected_worker.csv'
+path_selected_worker = '/Volumes/WD_BLACK/dataset/output/selected_worker.csv'
+path_selected_task = '/Volumes/WD_BLACK/dataset/output/selected_task.csv'
 
-geographical_bound_output = '/Volumes/WD_BLACK/dataset/output/geographical_bound.csv'
+path_geographical_bound = '/Volumes/WD_BLACK/dataset/output/geographical_bound.csv'
 
-ddf_output = '/Volumes/WD_BLACK/dataset/output/ddf'
-task_output = '/Volumes/WD_BLACK/dataset/output/task.csv'
+path_ddf = '/Volumes/WD_BLACK/dataset/output/ddf'
+path_grid = '/Volumes/WD_BLACK/dataset/output/grid.csv'
+
+
 
 # additional configuration parameters
